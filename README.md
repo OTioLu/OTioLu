@@ -2,7 +2,7 @@
 
 ---
 
-## 🎯 Linguagens
+## Linguagens
   
 **Unity (C#)**
 **Unreal (BluePrint)**
@@ -12,7 +12,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+##Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OTioLu&show_icons=true&theme=highcontrast&hide_border=true&title_color=00ffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" alt="GitHub stats" />
@@ -40,13 +40,11 @@
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Contato
 
 - ✉️ Email: lucas.hsr15@gmail.com
 
 ---
-
-## ⚡ Curiosidade
 
 > “Jogos são a forma de arte mais completa: interatividade, som, imagem, narrativa.”
 
