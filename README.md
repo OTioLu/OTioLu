@@ -4,10 +4,10 @@
 
 ## 🎯 Linguagens
   
-🔧 **Unity (C#)**, 
-🔧 **Unreal (BluePrint)**
-🔧 **Python**
-🔧 **HMLT**
+**Unity (C#)**
+**Unreal (BluePrint)**
+**Python**
+**HMLT**
 
 
 ---
