@@ -2,9 +2,12 @@
 
 ---
 
-## 🎯 Sobre Mim
+## 🎯 Linguagens
   
-🔧 Stack principal: **Unity (C#)**, 
+🔧 **Unity (C#)**, 
+🔧 **Unreal (BluePrint)**
+🔧 **Python**
+🔧 **HMLT**
 
 
 ---
